@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JaiChandwani
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jai.chandwani1501@gmail.com
+- 👋 Hi, I’m Jai kumar Chandwani
+- 👀 I’m interested in coding
+- 🌱 I had learned and currently growing as web developer
+- 📫 you can to reach me jai.chandwani1501@gmail.com
 
 <!---
 JaiChandwani/JaiChandwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
